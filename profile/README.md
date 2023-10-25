@@ -5,7 +5,7 @@ A small group of devs trying to make a game
 ---
 
 #### devs
-- me
+- Echo (MopNop)
 - another person
 - some other person
 - someone else
