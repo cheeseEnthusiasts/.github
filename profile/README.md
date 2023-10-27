@@ -6,9 +6,9 @@ A small group of devs trying to make a game
 
 #### devs
 - Echo (MopNop)
-- another person
-- some other person
-- someone else
+- Angel (WanderingMonument)
+- Jayden
+- doctor-one
 
 #### other stuff
 - we are using Unreal Engine
