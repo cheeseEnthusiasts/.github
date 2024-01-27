@@ -11,7 +11,7 @@ A small group of devs trying to make a game
 - doctor-one
 
 #### other stuff
-- we are using Unreal Engine
+- we are using ~~Unreal Engine~~ godot
 - uhhhhh
 
 
